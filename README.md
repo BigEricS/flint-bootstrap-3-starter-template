@@ -3,6 +3,8 @@
 
 This starter project folder uses the Bootstrap 3 less files to create a custom theme. 
 
+Learn more: https://bootstrapcreative.com/
+
 ###Prerequisites for use
 - Familiar with Grunt and compiling LESS and javascript
 - jQuery basics
