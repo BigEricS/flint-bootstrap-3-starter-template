@@ -1,0 +1,11 @@
+{
+  "name": "flint-bootstrap-3-starter-template",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-less": "^1.1.0",
+    "grunt-ftp-deploy": "^0.1.10"
+  }
+}
